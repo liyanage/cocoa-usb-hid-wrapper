@@ -1,0 +1,160 @@
+// !$*UTF8*$!
+{
+	0867D690FE84028FC02AAC07 /* Project object */ = {
+		activeArchitecture = i386;
+		activeBuildConfigurationName = Release;
+		activeTarget = 1BF712DC0C2872EF0076E295 /* Test */;
+		addToTargets = (
+			8DC2EF4F0486A6940098B216 /* MLUsbHidWrapper */,
+		);
+		breakpoints = (
+		);
+		codeSenseManager = 1BF712CA0C286FA80076E295 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXExecutablesDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXExecutablesDataSource_NameID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					22,
+					300,
+					342,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXExecutablesDataSource_ActiveFlagID,
+					PBXExecutablesDataSource_NameID,
+					PBXExecutablesDataSource_CommentsID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					243,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXFileTableDataSource3.PBXFindDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFindDataSource_LocationID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					200,
+					468,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFindDataSource_MessageID,
+					PBXFindDataSource_LocationID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					200,
+					338,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 216735910;
+			PBXWorkspaceStateSaveDate = 216735910;
+		};
+		sourceControlManager = 1BF712C90C286FA80076E295 /* Source Control */;
+		userBuildSettings = {
+			SYMROOT = "/Users/liyanage/svn/entropy-private/freitag-fuji/build";
+		};
+	};
+	089C1667FE841158C02AAC07 /* English */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {652, 642}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRect = "{{0, 0}, {652, 642}}";
+		};
+	};
+	1B2329130C3053CD00D37159 /* TestUSBHidWrapper.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 585}}";
+			sepNavSelRange = "{287, 22}";
+			sepNavVisRect = "{{0, 0}, {716, 585}}";
+		};
+	};
+	1B2329140C3053CD00D37159 /* TestUSBHidWrapper.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 1430}}";
+			sepNavSelRange = "{2779, 322}";
+			sepNavVisRect = "{{0, 845}, {716, 585}}";
+		};
+	};
+	1BF712C90C286FA80076E295 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+		scmType = "";
+	};
+	1BF712CA0C286FA80076E295 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	1BF712CC0C286FF70076E295 /* MLUsbHidDevice.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 585}}";
+			sepNavSelRange = "{7, 16}";
+			sepNavVisRect = "{{0, 0}, {716, 585}}";
+			sepNavWindowFrame = "{{238, 630}, {1094, 868}}";
+		};
+	};
+	1BF712CD0C286FF70076E295 /* MLUsbHidDevice.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {716, 3185}}";
+			sepNavSelRange = "{2112, 5}";
+			sepNavVisRect = "{{0, 637}, {716, 585}}";
+		};
+	};
+	1BF712DC0C2872EF0076E295 /* Test */ = {
+		activeExec = 0;
+	};
+	1BF712DE0C2872EF0076E295 /* Test-Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {652, 642}}";
+			sepNavSelRange = "{629, 0}";
+			sepNavVisRect = "{{0, 0}, {652, 642}}";
+		};
+	};
+	8DC2EF4F0486A6940098B216 /* MLUsbHidWrapper */ = {
+		activeExec = 0;
+	};
+	8DC2EF5A0486A6940098B216 /* Info.plist */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {653, 375}}";
+			sepNavSelRange = "{715, 0}";
+			sepNavVisRect = "{{0, 0}, {653, 375}}";
+		};
+	};
+}
